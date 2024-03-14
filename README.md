@@ -1,0 +1,5 @@
+# Python_Assesment_1
+Question 1: I created a simple calculator in Python. It asks the user for two numbers, then presents a menu of mathematical operations (addition, subtraction, multiplication, and division). The user selects an operation (1 for addition, 2 for subtraction, etc.), and the program performs the chosen operation and displays the result. It also handles any potential errors that may occur.
+Question 2: I developed a Python program to calculate a student's grade. The program prompts the user to input marks for each subject, calculates the percentage, and determines the grade based on predefined conditions (using if statements). It also identifies if the student has failed based on their marks.
+Question 3: This is a simple number guessing game in Python. It imports the random module to generate a random number between 1 and 100. The user keeps guessing numbers until they guess the correct one. After each guess, the program provides feedback (whether the guessed number is too high or too low). Once the correct number is guessed, it prints "Correct!" along with the number of attempts user took.
+
