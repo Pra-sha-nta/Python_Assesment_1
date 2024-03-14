@@ -2,7 +2,6 @@ import random
 count=0
 random_number = random.randint(1, 100)
 a=(random_number)
-print(a)
 
 while True:
     b=int(input("please guess a number."))
