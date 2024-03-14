@@ -1,4 +1,4 @@
-# 33_Assesment_1_pr_02.py
+# 33_Assesment_1_pr_02
 a = int(input("Enter marks in 1st subject: "))
 b = int(input("Enter marks in 2nd subject: "))
 c = int(input("Enter marks in 3rd subject: "))
