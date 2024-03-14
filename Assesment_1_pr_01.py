@@ -1,4 +1,4 @@
-#Assesment_1_pr_01.py
+#Assesment_1_pr_01
 a=int(input("Enter First Number "))
 b=int(input("Enter Second Number "))
 c=int(input('''Enter Choice:
